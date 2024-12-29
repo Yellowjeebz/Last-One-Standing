@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RSentai Override
+  m_Controller: {fileID: 9100000, guid: f7b4624a2042fd249a2d490cf4bcc52b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 370bd7bbc5f563147bdb2669e533bf76, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 170e5c28ca65782479ed13354856f2ca, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 23a4c16430e77734db6a0ff0fbc9c093, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bfa53cebb818afa4b9419375bb2a1768, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9d3d792a43e020b4bb4d69d9085d00ec, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b3fe35793c8de0a42b96c87eca74ca21, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 62129fbbbd5151644811308e3fad8971, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1ed7ec336d47c2c42a840495344a60ee, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c5bb82b7331e736438f75320acef49bb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4258b53d4dd35654a84e677b665fa7a4, type: 2}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGameMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: 67c4d9c0c91302744a1116ecef25c43d
+  - enabled: 1
+    path: Assets/Scenes/EnduranceBattle1.unity
+    guid: dbda5b7c1248cba4f97fac1d0855c53c
+  - enabled: 1
+    path: Assets/Scenes/ZombiePocalypse1.unity
+    guid: 8c8769964dbbf9046a98dbcdceed7997
+  - enabled: 1
+    path: Assets/Scenes/FallingFruit1.unity
+    guid: 38a4f843073ccca428823018ed0fd5c2
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 1a059571ff90cc948b4621ef00d7dc4b
+  - enabled: 1
+    path: Assets/Scenes/PreLogin.unity
+    guid: d7c4890307292024a90c044d5a74cef3
+  - enabled: 1
+    path: Assets/Scenes/UserDetailScreen.unity
+    guid: bb1462b6b6e4e584faf11b2a0f7b3a8e
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: 95f5b14369103754498bf181158533dd
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 5885b80e948276d4a8a31b77f5e5f546
+  m_configObjects: {}

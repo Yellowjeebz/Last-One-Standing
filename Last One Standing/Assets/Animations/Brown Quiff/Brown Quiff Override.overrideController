@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Brown Quiff Override
+  m_Controller: {fileID: 9100000, guid: f7b4624a2042fd249a2d490cf4bcc52b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 370bd7bbc5f563147bdb2669e533bf76, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ba5e4e934ddd47f4193c66dc9cb6525d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 23a4c16430e77734db6a0ff0fbc9c093, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6dace583c2546ae4489cf9319e366cdc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 62129fbbbd5151644811308e3fad8971, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a877858c3c95cb74198a2f599e7db055, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9d3d792a43e020b4bb4d69d9085d00ec, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2f5efb7bc94ff984c80414ab95fbb7a1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c5bb82b7331e736438f75320acef49bb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 96a82459a3a1704458388542dedf55f1, type: 2}
