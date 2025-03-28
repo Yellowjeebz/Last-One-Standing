@@ -2,6 +2,12 @@
 A local multiplayer family game played on a PC with two external controllers. For 4 Players, there's multiple minigames and the first player to win 3 games, wins the game.
 
 
+![image](https://github.com/user-attachments/assets/b4dd6c9b-415d-431b-810d-ecdff3a32e57)
+
+![image](https://github.com/user-attachments/assets/7d824c1b-1917-40b7-bb62-3d7a60898e27)
+
+![image](https://github.com/user-attachments/assets/b4dd822e-e9ed-4c7c-a215-d64d5e8ec612)
+
 ![image](https://github.com/user-attachments/assets/6dc6a5c7-5fa0-4cd2-aab3-0dafb62dc725)
 
 ![image](https://github.com/user-attachments/assets/a1fb5cce-fc46-4de2-88bd-5d1376ccbfd0)
